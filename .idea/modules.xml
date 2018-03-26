@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xsd-to-java-gen.iml" filepath="$PROJECT_DIR$/xsd-to-java-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsd-to-java-gen_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xsd-to-java-gen_main.iml" group="xsd-to-java-gen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsd-to-java-gen_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xsd-to-java-gen_test.iml" group="xsd-to-java-gen" />
+    </modules>
+  </component>
+</project>
